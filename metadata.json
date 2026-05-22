@@ -1,0 +1,6 @@
+{
+  "name": "RESTful API Course Workspace",
+  "description": "An interactive learning sandbox and fully-compliant Express API server for the Level 4 Backend Web Development course on Inventory Management APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
